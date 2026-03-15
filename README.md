@@ -1,10 +1,8 @@
 ### Hey, I'm Salim
 
-Software engineering student at TELECOM SudParis, based in Paris.
+Software engineer, currently Product Owner intern at Louis Vuitton in Paris.
 
-I build things across the stack — distributed systems, blockchain protocols, ML pipelines, and full-stack web apps.
-
-Currently looking for software engineering opportunities.
+TELECOM SudParis (Institut Polytechnique de Paris) graduate. I build things across the stack — distributed systems, blockchain protocols, ML pipelines, and full-stack web apps.
 
 ---
 
