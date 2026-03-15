@@ -18,9 +18,9 @@ Currently looking for software engineering opportunities.
 
 **[RAG Document Pipeline](https://github.com/salim-lakhal/rag-document-pipeline)** — document processing pipeline for retrieval-augmented generation. Multi-format extraction, chunking, metadata enrichment. Python.
 
-**[ai-or-ain't](https://github.com/salim-lakhal/ai-or-ain-t)** — deepfake detection game where you guess if a face is real or AI-generated. TypeScript, React, Express.
-
 **[SigVerify](https://github.com/salim-lakhal/SigVerify)** — document signing and verification platform. Next.js, TypeScript, MongoDB.
+
+**[ai-or-ain't](https://github.com/salim-lakhal/ai-or-ain-t)** — deepfake detection game where you guess if a face is real or AI-generated. TypeScript, React, Express.
 
 ---
 
