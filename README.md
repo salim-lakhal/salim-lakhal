@@ -1,6 +1,6 @@
 ### Hey, I'm Salim
 
-Software engineer, currently Product Owner intern at Louis Vuitton in Paris.
+Currently Product Owner intern at Louis Vuitton in Paris.
 
 TELECOM SudParis (Institut Polytechnique de Paris) graduate. I build things across the stack — distributed systems, blockchain protocols, ML pipelines, and full-stack web apps.
 
